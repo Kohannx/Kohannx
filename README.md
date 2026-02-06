@@ -3,4 +3,5 @@
 </p>
 
 <p align="center">
-ILOVE THIS CARD SO MUCH BRO
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=28&color=E10600&center=true&vCenter=true&width=600&lines=ILOVE+THIS+CARD+SO+MUCCH" />
+</p>
